@@ -1,3 +1,4 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("MITUMAHUB", "Synapse")
 local Tab1 = Window:NewTab("Blox Fruit")
+local Section1 = Tab:NewSection("Blox Fruit Scripts")
